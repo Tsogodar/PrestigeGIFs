@@ -1,0 +1,17 @@
+C:\Users\Marcin\Desktop\PG2\bin\Debug\PG2.exe.config
+C:\Users\Marcin\Desktop\PG2\bin\Debug\PG2.exe
+C:\Users\Marcin\Desktop\PG2\bin\Debug\PG2.pdb
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.Properties.Resources.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.csproj.GenerateResource.Cache
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.exe
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.pdb
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.mainForm.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Desktop\PG2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marcin\Desktop\PG2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.loggedMainForm.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.Logowanie.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.Rejestracja.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.newFile.resources
+C:\Users\Marcin\Desktop\PG2\obj\Debug\PG2.csproj.CopyComplete
